@@ -1,6 +1,6 @@
 # OpenTK Heightmap tester
 
-A simple project using OpenTK to render an 2d heightmap in 3D.
+A simple project using OpenTK to render a 2d heightmap in 3D.
 
 Includes mouse and keyboard support for moving around.
 
